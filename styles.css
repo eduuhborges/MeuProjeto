@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+
+.red {
+  color: #ff0000
+}
+
+#logo {
+   font-family: "Times New Roman", Tahoma, arial;
+}
+
+body p{
+  font-family: sans-serif;
+}
